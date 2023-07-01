@@ -1,7 +1,9 @@
 package token
+
 import (
 	"testing"
-	"pkg/token"
+
+	"github.com/jonathanfelicity/dumblang/pkg/token"
 )
 
 func TestNextToken(t *testing.T) {
